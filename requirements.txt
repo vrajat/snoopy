@@ -1,0 +1,3 @@
+pyshark
+typer[all]
+tqdm
